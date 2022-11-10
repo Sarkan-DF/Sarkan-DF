@@ -1,3 +1,3 @@
 ## Olá pessoal 👋
 
-- 😀 - Nome: Igor Arujo Matos
+- 😀 Nome: Igor Araujo Matos
