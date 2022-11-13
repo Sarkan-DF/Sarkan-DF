@@ -7,7 +7,10 @@
 - 💻 Linguagem de Programação favorita: Sem duvida até o momento minha liguagem preferida é Python.
 - ⌨ O que está estudando atualmente: Atualmente estou estudando GitHub e HTML.
 <br>
-Linguagems de programação:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60" height="60"/>
+<div>
+<a href="https://github.com/Sarkan-DF">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
                     
           
