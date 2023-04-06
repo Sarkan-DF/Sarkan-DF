@@ -9,8 +9,12 @@ Bom abaixo algumas informações sobre min para mais tem links de linkdin, Insta
 - ⌨ O que está estudando atualmente: Atualmente estou estudando React e Redux.
 - 🤖 Hobbies: Atualmente gosto bastante de assistir NFL 🏈 e também gosto de jogar videogame atualmente tenho um PS4 🕹. 
 
+##
 <br>
 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+</div>
 <div>
 <a href="https://github.com/Sarkan-DF">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkan-DF&layout=compact&langs_count=7&theme=dracula"/>
