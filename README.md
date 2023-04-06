@@ -17,6 +17,9 @@ Bom abaixo algumas informações sobre min para mais tem links de linkdin, Insta
 <img heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
+
+##
+<br>
 <div>
 <a href="https://github.com/Sarkan-DF">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkan-DF&layout=compact&langs_count=7&theme=dracula"/>
