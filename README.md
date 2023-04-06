@@ -15,6 +15,7 @@ Bom abaixo algumas informações sobre min para mais tem links de linkdin, Insta
 <div>
 <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 <div>
 <a href="https://github.com/Sarkan-DF">
