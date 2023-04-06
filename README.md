@@ -3,10 +3,10 @@
 Bom abaixo algumas informações sobre min para mais tem links de linkdin, Instagram e email!
 
 - 😀 Nome: Igor Araujo Matos
-- ✍ Formação: Cursei 5 semestre de sistema de informação na Faculdade Michelangelo, formações na Alura Python(completa), Node.JS(Noções basicas), HTML e CSS(Noções basicas) e Django(Parcial), Programa Starter formação completa em Desenvolvimento Web Full Stack (Cursando).
+- ✍ Formação: Programa Starter formação completa em Desenvolvimento Web Full Stack (Cursando), Cursei 5 semestre de sistema de informação na Faculdade Michelangelo, formações na Alura Python(completa), Node.JS(Noções basicas), HTML e CSS(Noções basicas) e Django(Parcial).
 - 🛠 Experiências profissionais: Auxiliar Administrativo, Agente de viagem, Suporte Técnico, Estudando programação (Python) e no programa starter formação completa em Desenvolvimento Web Full Stack da GrowDev(Cursando).
-- 💻 Linguagem de Programação favorita: Sem duvida até o momento minha liguagem preferida é Python.
-- ⌨ O que está estudando atualmente: Atualmente estou estudando Type Script.
+- 💻 Linguagem de Programação favorita: Sem duvida até o momento minha liguagem preferida é Python, mas estudando bastante TypeScript e gostando bastante.
+- ⌨ O que está estudando atualmente: Atualmente estou estudando React e Redux.
 - 🤖 Hobbies: Atualmente gosto bastante de assistir NFL 🏈 e também gosto de jogar videogame atualmente tenho um PS4 🕹. 
 
 <br>
