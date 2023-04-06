@@ -1,4 +1,4 @@
-## Olá pessoal 👋
+## Olá pessoal, eu sou o Igor Matos 👋
 
 Bom abaixo algumas informações sobre min para mais tem links de linkdin, Instagram e email!
 
